@@ -5,3 +5,8 @@ Practice go code and RNN with go brain package
 ```
 go get github.com/goml/gobrain
 ```
+
+常にリポジトリにpackageがある場合は最新版をダウンロードします。
+```
+go get -u github.com/goml/gobrain
+```
